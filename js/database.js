@@ -165,9 +165,9 @@ class DatabaseManager {
                 categoria: "feminino",
                 preco: 129.90,
                 imagem: "img/vestido_rosa.png",
-                descricao: "Vestido em promoção por tempo limitado",
+                descricao: "Vestido rosa com detalhes de bordado",
                 tamanhos: ["P", "M", "G"],
-                cores: ["Preto", "Vermelho"],
+                cores: ["Rosa"],
                 estoque: 8
             },
             {
@@ -176,9 +176,9 @@ class DatabaseManager {
                 categoria: "feminino",
                 preco: 99.90,
                 imagem: "img/camisa_vermelha.png",
-                descricao: "Blusa elegante temporariamente indisponível",
+                descricao: "Blusa vermelha com detalhes de bordado",
                 tamanhos: ["P", "M"],
-                cores: ["Branco", "Preto"],
+                cores: ["Vermelho"],
                 estoque: 0
             },
             {
